@@ -1,0 +1,2 @@
+nest g module user -> Cria um modulo
+ yarn start:dev -> coloca pra rodar e atualizar automaticamente
