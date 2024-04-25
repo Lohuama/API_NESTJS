@@ -1,0 +1,10 @@
+DOCKER
+- abre o DOCKER
+- docker compose up dev-db -d
+
+PRISMA
+- npx prisma migrate dev
+- npx studio prisma
+
+PROJETO
+- npm run dev:start
